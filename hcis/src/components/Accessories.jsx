@@ -9,7 +9,7 @@ const Accessories = () => {
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <div className="border rounded-lg overflow-hidden shadow-lg bg-white">
-          <img src="https://example.com/helmet.jpg" alt="Helmet" className="w-full h-48 object-cover" />
+          <img src="https://www.harley-davidson.com/content/dam/h-d/images/product-images/merchandise/2021/august/helmets/98100-22vx/98100-22VX_B.jpg?impolicy=myresize&rw=480" alt="Helmet" className="w-full h-48 object-cover" />
           <div className="p-6">
             <h3 className="text-2xl font-bold">Harley Helmet</h3>
             <p className="text-gray-600 mt-2">Price: $299</p>
@@ -19,7 +19,7 @@ const Accessories = () => {
           </div>
         </div>
         <div className="border rounded-lg overflow-hidden shadow-lg bg-white">
-          <img src="https://example.com/gloves.jpg" alt="Riding Gloves" className="w-full h-48 object-cover" />
+          <img src="https://www.harley-davidson.com/content/dam/h-d/images/product-images/merchandise/2024/98196-24vm/98196-24VM_F.jpg?impolicy=myresize&rw=480" alt="Riding Gloves" className="w-full h-48 object-cover" />
           <div className="p-6">
             <h3 className="text-2xl font-bold">Riding Gloves</h3>
             <p className="text-gray-600 mt-2">Price: $89</p>
@@ -29,7 +29,7 @@ const Accessories = () => {
           </div>
         </div>
         <div className="border rounded-lg overflow-hidden shadow-lg bg-white">
-          <img src="https://example.com/jacket.jpg" alt="Leather Jacket" className="w-full h-48 object-cover" />
+          <img src="https://www.harley-davidson.com/content/dam/h-d/images/product-images/merchandise/2022/98015-23vm/98015-23VM_B.jpg?impolicy=myresize&rw=480" alt="Leather Jacket" className="w-full h-48 object-cover" />
           <div className="p-6">
             <h3 className="text-2xl font-bold">Leather Jacket</h3>
             <p className="text-gray-600 mt-2">Price: $399</p>

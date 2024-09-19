@@ -9,7 +9,7 @@ const Bikes = () => {
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <div className="border rounded-lg overflow-hidden shadow-lg bg-white">
-          <img src="https://example.com/road-king.jpg" alt="Road King" className="w-full h-48 object-cover" />
+          <img src="https://imgd.aeplcdn.com/664x374/n/bw/models/colors/harleydavidson-select-model-billiard-gray-1708437792373.png?q=80" alt="Road King" className="w-full h-48 object-cover" />
           <div className="p-6">
             <h3 className="text-2xl font-bold">Road King</h3>
             <p className="text-gray-600 mt-2">Price: $18,999</p>
@@ -19,7 +19,7 @@ const Bikes = () => {
           </div>
         </div>
         <div className="border rounded-lg overflow-hidden shadow-lg bg-white">
-          <img src="https://example.com/fat-bob.jpg" alt="Fat Bob" className="w-full h-48 object-cover" />
+          <img src="https://imgd.aeplcdn.com/227x128/n/cw/ec/145921/fat-bob-right-side-view-2.png?isig=0&q=80" alt="Fat Bob" className="w-full h-48 object-cover" />
           <div className="p-6">
             <h3 className="text-2xl font-bold">Fat Bob</h3>
             <p className="text-gray-600 mt-2">Price: $16,499</p>
@@ -29,7 +29,7 @@ const Bikes = () => {
           </div>
         </div>
         <div className="border rounded-lg overflow-hidden shadow-lg bg-white">
-          <img src="https://example.com/low-rider.jpg" alt="Low Rider" className="w-full h-48 object-cover" />
+          <img src="https://imgd.aeplcdn.com/227x128/n/cw/ec/145691/street-glide-special-right-side-view-3.png?isig=0&q=80" alt="Low Rider" className="w-full h-48 object-cover" />
           <div className="p-6">
             <h3 className="text-2xl font-bold">Low Rider</h3>
             <p className="text-gray-600 mt-2">Price: $14,999</p>

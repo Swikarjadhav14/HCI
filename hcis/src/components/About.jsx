@@ -7,7 +7,11 @@ const About = () => {
       <p className="text-xl text-center mb-8">
         HarleyZone is more than just a dealership. We are a community of enthusiasts who share a passion for the open road and the freedom it brings.
       </p>
-      <img src="https://example.com/about-harley.jpg" alt="About Harley" className="w-full h-auto mb-8" />
+      <img 
+  src="https://imgd.aeplcdn.com/1056x594/n/cw/ec/57965/road-king-right-front-three-quarter.jpeg?isig=0&q=80" 
+  alt="About Harley" 
+  className="max-w-md mx-auto mb-8 h-auto" 
+/>
       <p className="text-lg text-center">
         Since 1903, Harley-Davidson has stood as a symbol of innovation and quality. Our mission is to continue this legacy with advanced technology, unmatched performance, and enduring style.
       </p>
